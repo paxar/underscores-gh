@@ -10,7 +10,7 @@ _s
 
 - добавлен Awesome
 
-- добавлены <p class="helper"> //page-name//.php</p> на каждой странице для ориентации :-))) (отключить -  .helper{display: none;}  в style.scss)
+- добавлены <р class="helper"> //page-name//.php</р> на каждой странице для ориентации :-))) (отключить -  .helper{display: none;}  в style.scss)
 
 === finctions.php  ===== 
 
