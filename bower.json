@@ -1,0 +1,22 @@
+{
+  "name": "homework",
+  "description": "homework geekhub",
+  "main": "index.js",
+  "authors": [
+    "Pavel Charchenko <paxar81@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/paxar/HomeWork9",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "app/libs/"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}

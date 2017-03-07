@@ -1,0 +1,10 @@
+.idea/
+node_modules/
+bower_components/
+src/libs/
+src/css/
+dist/
+vendors/
+.sass-cache
+*.css.map
+
