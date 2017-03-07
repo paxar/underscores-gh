@@ -7,16 +7,16 @@ _s
 - добавлен gulp
 - добавлен bower
 - добавлен bootstrap
-- добавлены google-fonts
+
 - добавлен Awesome
 
 - добавлены <p class="helper"> //page-name//.php</p> на каждой странице для ориентации :-))) (отключить -  .helper{display: none;}  в style.scss)
 
 === finctions.php  ===== 
 
- - custom post type template
- - добалена функция изменения количества слов в превью поста при вызове <p><?php the_excerpt(); ?></p> в цикле. (закоменчена по умолчанию)
-
+- custom post type template
+- добалена функция изменения количества слов в превью поста при вызове <р><?php the_excerpt(); ?></р> в цикле. (закоменчена по умолчанию)
+- добавлены google-fonts
 
 
 
